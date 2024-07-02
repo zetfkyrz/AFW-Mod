@@ -1,13 +1,11 @@
 
-CSA = "countries/CSA.txt"
-
 MLR = "countries/MladoRussia.txt"
 
 NSK = "countries/NezSuvCan.txt"
 
-NSA = "countries/NezSubAmerica.txt"
+NSA = "countries/NezSuvAmerica.txt"
 
-SAR = "countries/ScanAmRep"
+SAR = "countries/ScanAmRep.txt"
 
 NSM = "countries/NezSuvMex.txt"
 
