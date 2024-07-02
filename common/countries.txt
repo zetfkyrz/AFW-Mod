@@ -1,0 +1,14 @@
+
+CSA = "countries/CSA.txt"
+
+MLR = "countries/MladoRussia.txt"
+
+NSK = "countries/NezSuvCan.txt"
+
+NSA = "countries/NezSubAmerica.txt"
+
+SAR = "countries/ScanAmRep"
+
+NSM = "countries/NezSuvMex.txt"
+
+
