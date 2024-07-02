@@ -1,4 +1,6 @@
 
+# AFW
+
 CSA = "countries/CSA.txt"
 
 MLR = "countries/MladoRussia.txt"
