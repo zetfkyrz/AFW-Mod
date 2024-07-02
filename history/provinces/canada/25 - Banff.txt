@@ -1,14 +1,14 @@
-add_core = CAN
+add_core = NSC
 trade_goods = coal
 life_rating = 27
 terrain = boreal_forest_mountains
 1861.1.1 = {
-	owner = ENG
-	controller = ENG
+	owner = NSC
+	controller = NSC
 	colonial = 2
 }
 1914.1.1 = {
 	owner = CAN
 	controller = CAN
 	colonial = no
-}
+}add_core = NSC

@@ -1,13 +1,13 @@
-add_core = SAF
+add_core = NSC
 trade_goods = fruit
 life_rating = 25
 terrain = desert_hills
 1836.1.1 = {
-	owner = ENG
-	controller = ENG
+	owner = NSC
+	controller = NSC
 	colonial = 2
 }
 1914.1.1 = {
 	owner = SAF
 	controller = SAF
-}
+}owner = NSCcontroller = NSCadd_core = NSC

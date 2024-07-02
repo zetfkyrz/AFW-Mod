@@ -1,6 +1,6 @@
-owner = MEX
-controller = MEX
-add_core = MEX
+owner = NSM
+controller = NSM
+add_core = NSM
 add_core = RGR
 add_core = SPA
 trade_goods = dye
@@ -20,4 +20,4 @@ terrain = mountain_grassland
 		building = liquor_distillery
 		upgrade = yes
 	}
-}
+owner = NSMcontroller = NSMadd_core = NSM}

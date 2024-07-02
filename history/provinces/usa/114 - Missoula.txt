@@ -1,10 +1,10 @@
-add_core = USA 
+add_core = MLR
 trade_goods = cattle
 life_rating = 35 
 terrain = conifer_forest_mountains
 1836.1.1 = {
-	owner = USA
-	controller = USA
+	owner = MLR
+	controller = MLR
 	colonial = 2
 }
 1861.1.1 = {
@@ -12,4 +12,4 @@ terrain = conifer_forest_mountains
 }
 1914.1.1 = {
 	railroad = 2
-}
+}owner = MLRcontroller = MLRadd_core = MLR

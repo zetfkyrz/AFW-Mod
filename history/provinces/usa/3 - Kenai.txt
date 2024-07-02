@@ -1,6 +1,6 @@
-owner = RUS
-controller = RUS
-add_core = RUS
+owner = MLR
+controller = MLR
+add_core = MLR
 trade_goods = fish
 life_rating = 20
 colonial = 2
@@ -10,4 +10,4 @@ terrain = boreal_forest_mountains
 	controller = USA
 	add_core = USA
 	remove_core = RUS
-}
+}owner = MLRcontroller = MLRadd_core = MLR

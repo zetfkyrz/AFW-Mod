@@ -1,7 +1,10 @@
-owner = MEX
-controller = MEX
-add_core = MEX
-add_core = RGR
+owner = NSM
+
+controller = NSM
+
+add_core = NSM
+add_core = RGR
+
 add_core = SPA
 trade_goods = grain
 life_rating = 35
@@ -15,4 +18,4 @@ terrain = hilly_grassland
 		building = fertilizer_factory
 		upgrade = yes
 	}
-}
+owner = NSMcontroller = NSMadd_core = NSM}

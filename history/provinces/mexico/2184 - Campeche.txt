@@ -1,11 +1,15 @@
-owner = MEX
-controller = MEX
-add_core = MEX
-add_core= YUC
+owner = SWE
+
+controller = SWE
+
+add_core = SWE
+add_core= YUC
+
 add_core = SPA
 trade_goods = timber
 life_rating = 30
-terrain = jungle_farmland
+terrain = jungle_farmland
+
 1836.1.1 = {
 	remove_core = SPA
-}
+owner = SWEcontroller = SWEadd_core = SWE}

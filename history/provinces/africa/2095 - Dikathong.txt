@@ -1,10 +1,10 @@
 trade_goods = grain
 life_rating = 15
-add_core = SAF
+add_core = NSC
 terrain = desert
 1914.1.1 = {
-	owner = SAF
-	controller = SAF
+	owner = NSC
+	controller = NSC
 	colonial = no
 }
-
+owner = NSCcontroller = NSCadd_core = NSC

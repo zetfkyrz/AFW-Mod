@@ -1,6 +1,6 @@
-owner = USA
-controller = USA
-add_core = USA
+owner = NSA
+controller = NSA
+add_core = NSA
 trade_goods = coal
 life_rating = 35
 terrain = deciduous_forest_hills
@@ -13,8 +13,8 @@ terrain = deciduous_forest_hills
 }
 1861.1.1 = { railroad = 3 }
 1914.1.1 = {
-	owner = USA
-	controller = USA
+	owner = NSA
+	controller = NSA
 	remove_core = CSA
 	railroad = 5
 	state_building = {
@@ -38,4 +38,4 @@ terrain = deciduous_forest_hills
 		upgrade = yes
 	}
 
-}
+add_core = NSA}

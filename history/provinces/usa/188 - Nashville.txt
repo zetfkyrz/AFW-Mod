@@ -1,6 +1,6 @@
-owner = USA
-controller = USA
-add_core = USA
+owner = NSA
+controller = NSA
+add_core = NSA
 trade_goods = grain
 life_rating = 35
 terrain = forested_farmland
@@ -19,9 +19,9 @@ state_building = {
 	ideology = conservative
 	loyalty_value = 20
 	}
-	controller = CSA
-	owner = CSA
-	add_core = CSA
+	controller = NSA
+	owner = NSA
+	add_core = NSA
 	state_building = {
 		level = 2
 		building = liquor_distillery
