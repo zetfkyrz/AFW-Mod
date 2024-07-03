@@ -1,5 +1,5 @@
-#Alaska Region (72000)
-#Sitka (23200/5800 POPS)
+#Alaska Region (720000)
+#Sitka (232000/58000 POPS)
 1 = {
 	bureaucrats = {
 		culture = russian
@@ -55,7 +55,7 @@
 		size = 27500
 	}
 }
-#Yakutat (11500/2875 POPS)
+#Yakutat (115000/28750 POPS)
 2 = {
 	aristocrats = {
 		culture = native_american_minor
@@ -87,7 +87,7 @@
 		size = 25000
 	}
 }
-#Kenai (6900/1725 POPS)
+#Kenai (69000/17250 POPS)
 3 = {
 	aristocrats = {
 		culture = native_american_minor
@@ -119,7 +119,7 @@
 		size = 14000
 	}
 }
-#Dutch Harbor (5700/1425 POPS)
+#Dutch Harbor (57000/14250 POPS)
 4 = {
 	aristocrats = {
 		culture = inuit
@@ -151,7 +151,7 @@
 		size = 12000
 	}
 }
-#Bethel (5800/1450 POPS)
+#Bethel (58000/14500 POPS)
 5 = {
 	aristocrats = {
 		culture = inuit
@@ -213,7 +213,7 @@
 		size = 5500
 	}
 }
-#Fairbanks (5700/1425 POPS)
+#Fairbanks (57000/14250 POPS)
 2599 = {
 	aristocrats = {
 		culture = native_american_minor
@@ -245,7 +245,7 @@
 		size = 12000
 	}
 }
-#Cordova (4600/1150 POPS)
+#Cordova (46000/11500 POPS)
 2630 = {
 	aristocrats = {
 		culture = native_american_minor
@@ -277,7 +277,7 @@
 		size = 9250
 	}
 }
-#Unalakeet (8600/2150 POPS)
+#Unalakeet (86000/21500 POPS)
 2631 = {
 	aristocrats = {
 		culture = inuit
