@@ -1,4 +1,3 @@
-
 graphical_culture = UsGC
 color = { 165 59 80 }
 proletarian_dictatorship = { 185 65 70 }
