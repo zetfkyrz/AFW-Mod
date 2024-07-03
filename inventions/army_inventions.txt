@@ -317,7 +317,7 @@ trench_systems = {
 	}
 }
 gas_attack_capability = {
-	limit = { military_directionism = 1 }
+	limit = { military_directionism = 5 }
 	chance = {
 		base = 0
 		modifier = {
@@ -334,7 +334,7 @@ gas_attack_capability = {
 	}
 }
 gas_defense_capability = {
-	limit = { military_directionism = 1 }
+	limit = { military_directionism = 2 }
 	chance = {
 		base = 0
 		modifier = {
@@ -525,6 +525,14 @@ tank_experiments = {
 		}
 		modifier = {
 			factor = 2
+			invention = synchronized_heavy_support
+		}
+		modifier = {
+			factor = 1
+			machine_guns = 1
+		}
+		modifier = {
+			factor = 2
 			war = yes
 			war_countries = { invention = tank_experiments }
 		}
@@ -558,10 +566,14 @@ tank_exploits = {
 	}
 	effect = {
 		tank = {
-			attack = 2
+			attack = 4
 			defence = 4
 			supply_consumption = 1
-			siege = 1				
+			siege = 2			
+		}
+		army_base = {
+			default_organisation = -5 
+			morale = 0.25
 		}	
 	}
 }
@@ -582,22 +594,23 @@ firepower_vs_mobility = {
 	effect = {
 		infantry = {
 			attack = 1
-			defence = 1
+			defence = 2
 		}
 		guard = {
-			attack = 1
-			defence = 1
+			attack = 3
+			defence = -1
 		}
 		engineer = {
-			attack = 1
-			defence = 1
-			siege = 1
+			attack = 2
+			defence = 2
+			siege = 2
 		}
 		tank = {
-			attack = 1
+			attack = 5
 			defence = 1
 		}
 		artillery = {
+			attack = 2
 			defence = 2
 		}
 		cuirassier = {
@@ -655,6 +668,8 @@ human_wave_vs_spearhead = {
 		guard = {
 			attack = 1
 			defence = 1
+			supply_consumption = 0.1
+			siege =1
 		}
 		engineer = {
 			attack = 1
@@ -665,6 +680,7 @@ human_wave_vs_spearhead = {
 			defence = 1
 			siege = 1	
 			maximum_speed = 1
+			supply_consumption = 0.1
 		}
 		cuirassier = {
 			defence = 1
@@ -701,6 +717,13 @@ elastic_defence = {
 	}
 	effect = {
 		army_base = {
+			defence = 2
+		}
+		infantry = {
+			defence = 1
+		}
+		engineer = {
+			attack = 1
 			defence = 1
 		}
 	}
@@ -721,6 +744,7 @@ direct_support_of_infantry_tank = {
 	}
 	effect = {
 		tank = {
+			attack = 3
 			maximum_speed = 1
 			supply_consumption = 0.5
 		}
@@ -782,6 +806,7 @@ blitzkrieg = {
 	effect = {
 		army_base = {
 			siege = 2
+			maximum_speed = 2
 		} 
 	}
 }
@@ -1011,15 +1036,15 @@ machine_gun_armament = {
 	effect = {
 		infantry = {
 			defence = 4
-			supply_consumption = 0.20
+			supply_consumption = 0.30
 		}
 		guard = {
 			defence = 4
-			supply_consumption = 0.20
+			supply_consumption = 0.15
 		}
 		engineer = {
 			defence = 4
-			supply_consumption = 0.20
+			supply_consumption = 0.30
 		}
 		cuirassier = {
 			defence = 1
@@ -1039,7 +1064,7 @@ machine_gun_armament = {
 		}
 		irregular = {
 			defence = 1
-			supply_consumption = 0.20
+			supply_consumption = 0.30
 		}
 	}
 }
@@ -1050,7 +1075,7 @@ colonial_negotiations = {
 			}
 	news = no
 	chance = {
-		base = 0
+		base = 5
 		modifier = {
 			factor = 25
 			machine_guns = 1
@@ -1150,7 +1175,7 @@ assault_weapons = {
 			supply_consumption = 0.05
 		}
 		engineer = {
-			attack = 1
+			attack = 2
 			supply_consumption = 0.05
 		}
 	}
@@ -1269,10 +1294,10 @@ air_landing_troops = {
 			reconnaissance = 1
 		}
 		guard = {
-			reconnaissance = 1
+			reconnaissance = 2
 		}
 		engineer = {
-			reconnaissance = 1
+			reconnaissance = 2
 		}
 		irregular = {
 			reconnaissance = 1
@@ -1421,7 +1446,7 @@ light_artillery = {
 		artillery = {
 			attack = 0.1
 			support = 0.1
-			supply_consumption = 0.25
+			supply_consumption = 0.15
 		}
 	}
 }
@@ -1440,8 +1465,8 @@ medium_artillery = {
 	}
 	effect = {
 		artillery = {
-			attack = 0.1
-			support = 0.1
+			attack = 0.2
+			support = 0.15
 			supply_consumption = 0.25
 		}
 	}
@@ -1461,9 +1486,9 @@ heavy_artillery = {
 	}
 	effect = {
 		artillery = {
-			attack = 0.1
-			support = 0.1
-			supply_consumption = 0.25
+			attack = 0.4
+			support = 0.15
+			supply_consumption = 0.4
 		}
 	}
 }
@@ -1502,7 +1527,7 @@ rocket_carriage_sights = {
 	}
 	effect = {
 		artillery = {
-			attack = 2
+			attack = 3
 		}
 	}
 }
