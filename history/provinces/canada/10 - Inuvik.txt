@@ -2,8 +2,7 @@ add_core = NSC
 trade_goods = grain
 life_rating = 15
 terrain = tundra_hills
-1914.1.1 = {
+1861.1.1 = {
 	owner = NSC
 	controller = NSC
-	colonial = 3
 }

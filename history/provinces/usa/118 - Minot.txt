@@ -6,11 +6,12 @@ life_rating = 35
 colonial = 2
 terrain = temperate_grassland
 1836.1.1 = {
-	owner = USA
-	controller = USA
+	owner = NSA
+	controller = NSA
 }
 1861.1.1 = {
-	colony = no
+	owner = NSA
+	controller = NSA
 	}
 1914.1.1 = {
 	railroad = 2

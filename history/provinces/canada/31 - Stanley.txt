@@ -5,10 +5,4 @@ terrain = boreal_forest
 1861.1.1 = {
 	owner = NSC
 	controller = NSC
-	colonial = 2
-}
-1914.1.1 = {
-	owner = CAN
-	controller = CAN
-	colonial = no
 }

@@ -2,8 +2,7 @@ add_core = NSC
 trade_goods = fish
 life_rating = 15
 terrain = boreal_marsh
-1914.1.1 = {
+1861.1.1 = {
 	owner = NSC
 	controller = NSC
-	colonial = 3
 }
