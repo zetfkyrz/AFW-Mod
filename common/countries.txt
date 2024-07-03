@@ -469,7 +469,7 @@ TGA		= "countries/Tonga.txt"
 
 MLR = "countries/MladoRussia.txt"
 
-NSС = "countries/NezSuvCan.txt"
+NSC = "countries/NezSuvCan.txt"
 
 NSA = "countries/NezSuvAmerica.txt"
 
