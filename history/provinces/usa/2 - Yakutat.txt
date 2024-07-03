@@ -3,10 +3,7 @@ trade_goods = fish
 life_rating = 30
 colonial = 2
 terrain = tundra_mountains
-1914.1.1 = {
+1861.1.1 = {
 	owner = MLR
 	controller = MLR
-	add_core = USA
-	remove_core = RUS
-	trade_goods = precious_metal
 }
