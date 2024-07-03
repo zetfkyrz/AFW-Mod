@@ -1,6 +1,7 @@
 capital = 123
-primary_culture = yankee, russian
-culture = dixie, russian
+primary_culture = yankee
+culture = dixie 
+culture = russian
 religion = protestant
 government = democracy
 plurality = 0.0
