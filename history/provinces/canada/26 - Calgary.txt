@@ -12,4 +12,4 @@ terrain = temperate_grassland
 	controller = CAN
 	colonial = no
 	trade_goods = oil
-}add_core = NSC
+}

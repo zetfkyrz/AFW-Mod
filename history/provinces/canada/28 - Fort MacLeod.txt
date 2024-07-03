@@ -9,4 +9,4 @@ terrain = conifer_forest_mountains
 	owner = CAN
 	controller = CAN
 	colonial = no
-}owner = NSCcontroller = NSCadd_core = NSC
+}

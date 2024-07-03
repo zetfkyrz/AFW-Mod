@@ -1,7 +1,7 @@
-owner = NSA
+owner = CSA
 terrain = forested_farmland
-controller = NSA
-add_core = NSA
+controller = CSA
+add_core = CSA
 trade_goods = tobacco
 life_rating = 35
 1861.1.1 = {

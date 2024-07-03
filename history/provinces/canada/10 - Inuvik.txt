@@ -6,4 +6,4 @@ terrain = tundra_hills
 	owner = NSC
 	controller = NSC
 	colonial = 3
-}owner = NSCcontroller = NSCadd_core = NSC
+}

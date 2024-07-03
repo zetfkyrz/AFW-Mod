@@ -5,4 +5,4 @@ life_rating = 15
 	owner = NSC
 	controller = NSC
 	colonial = 3
-}owner = NSCcontroller = NSCadd_core = NSC
+}

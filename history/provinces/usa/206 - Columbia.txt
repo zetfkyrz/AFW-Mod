@@ -1,7 +1,7 @@
-owner = NSA
+owner = CSA
 terrain = marginal_farmland
-controller = NSA
-add_core = NSA
+controller = CSA
+add_core = CSA
 trade_goods = cotton
 life_rating = 35
 1861.1.1 = {

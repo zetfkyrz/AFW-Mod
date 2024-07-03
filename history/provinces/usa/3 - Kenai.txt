@@ -10,4 +10,4 @@ terrain = boreal_forest_mountains
 	controller = USA
 	add_core = USA
 	remove_core = RUS
-}owner = MLRcontroller = MLRadd_core = MLR
+}

@@ -11,4 +11,4 @@ terrain = tundra_mountains
 	owner = CAN
 	controller = CAN
 	colonial = no
-}add_core = MLR
+}

@@ -9,4 +9,4 @@ controller = MLR
 1914.1.1 = {
 	railroad = 3
 	naval_base = 3
-}add_core = MLR
+}

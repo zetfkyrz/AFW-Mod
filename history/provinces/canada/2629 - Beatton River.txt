@@ -10,4 +10,4 @@ life_rating = 30
 	owner = CAN
 	controller = CAN
 	colonial = no
-}add_core = MLR
+}

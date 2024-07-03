@@ -11,4 +11,4 @@ terrain = temperate_grassland
 	owner = CAN
 	controller = CAN
 	colonial = no
-}add_core = NSC
+}

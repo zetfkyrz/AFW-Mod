@@ -6,4 +6,4 @@ terrain = hilly_grassland
 	owner = NSC
 	controller = NSC
 	colonial = no
-}owner = NSCcontroller = NSCadd_core = NSC
+}

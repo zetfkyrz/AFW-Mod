@@ -11,4 +11,4 @@ terrain = conifer_forest_mountains
 	owner = CAN
 	controller = CAN
 	colonial = no
-}add_core = NSC
+}

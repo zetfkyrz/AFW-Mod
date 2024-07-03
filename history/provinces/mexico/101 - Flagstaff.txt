@@ -9,8 +9,3 @@ terrain = semi_desert_mountains
 1836.1.1 = {
 	remove_core = SPA
 }
-1861.1.1 = {
-	controller = SAG
-	owner = SAG
-	add_core = SAG
-}

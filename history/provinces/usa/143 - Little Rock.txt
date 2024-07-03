@@ -1,7 +1,7 @@
-owner = NSA
-controller = NSA
+owner = CSA
+controller = CSA
 terrain = floodplain_farmland
-add_core = NSA
+add_core = CSA
 add_core = CHE
 trade_goods = grain
 life_rating = 35

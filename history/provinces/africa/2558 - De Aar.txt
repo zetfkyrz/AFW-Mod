@@ -10,4 +10,4 @@ terrain = desert_hills
 1914.1.1 = {
 	owner = SAF
 	controller = SAF
-}owner = NSCcontroller = NSCadd_core = NSC
+}

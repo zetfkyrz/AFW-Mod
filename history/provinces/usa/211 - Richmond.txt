@@ -1,6 +1,6 @@
-owner = NSA
-controller = NSA
-add_core = NSA
+owner = CSA
+controller = CSA
+add_core = CSA
 trade_goods = tobacco
 life_rating = 35
 railroad = 1
@@ -46,4 +46,3 @@ terrain = good_farmland
 		upgrade = yes
 	}
 }
-

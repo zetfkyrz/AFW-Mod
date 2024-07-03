@@ -6,4 +6,4 @@ terrain = boreal_forest
 	owner = NSC
 	controller = NSC
 	colonial = 3
-}owner = NSCcontroller = NSCadd_core = NSC
+}

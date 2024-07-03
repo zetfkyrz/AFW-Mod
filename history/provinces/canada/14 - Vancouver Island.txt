@@ -12,4 +12,4 @@ terrain = conifer_forest_mountains
 	owner = CAN
 	controller = CAN
 	colonial = no
-}owner = MLRcontroller = MLRadd_core = MLR
+}

@@ -18,19 +18,8 @@ for i in range(len(prov)):
         n = s.find("add_core =")
         m = s.find("\n",n)
         s = s[:n] + "add_core = " + country + s[m:]
-        scen = s.find("1861")
-        if scen:
-            n = s.find("owner =",scen)
-            m = s.find("\n",n)
-            s = s[:n] + "owner = " + country + s[m:]
-            n = s.find("controller =",scen)
-            m = s.find("\n",n)
-            s = s[:n] + "controller = " + country + s[m:]
-        
-            n = s.find("add_core =",scen)
-            m = s.find("\n",n)
-            s = s[:n] + "add_core = " + country + s[m:]
-        
+        n = s.rfind("}")
+        s = s[:n+1]
     with open(files[0],'w') as f: 
         f.write(s)
         

@@ -11,4 +11,4 @@ terrain = desert_hills
 	owner = SAF
 	controller = SAF
 	colonial = no
-}owner = NSCcontroller = NSCadd_core = NSC
+}

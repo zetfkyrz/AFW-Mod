@@ -15,4 +15,4 @@ terrain = hilly_grassland
 		building = cement_factory
 		upgrade = yes
 	}
-}owner = SARcontroller = SARadd_core = SARowner = SAGcontroller = SAGadd_core = SAG
+}

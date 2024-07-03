@@ -15,4 +15,4 @@ terrain = semi_desert_hills
 		building = liquor_distillery
 		upgrade = yes
 	}
-}owner = SARcontroller = SARadd_core = SARowner = SAGcontroller = SAGadd_core = SAG
+}

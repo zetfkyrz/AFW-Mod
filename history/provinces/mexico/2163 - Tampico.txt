@@ -14,4 +14,4 @@ terrain = hilly_farmland
 
 1914.1.1 = {
 	trade_goods = oil
-}owner = NSMcontroller = NSMadd_core = NSM
+}

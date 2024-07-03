@@ -11,4 +11,4 @@ terrain = boreal_forest
 	owner = CAN
 	controller = CAN
 	colonial = no
-}add_core = NSC
+}

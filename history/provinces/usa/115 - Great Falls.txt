@@ -10,4 +10,4 @@ colonial = 2
 }
 1914.1.1 = {
 	railroad = 2
-}owner = MLRcontroller = MLRadd_core = MLR
+}

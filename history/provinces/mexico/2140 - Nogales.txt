@@ -8,4 +8,4 @@ life_rating = 35
 terrain = semi_desert
 1836.1.1 = {
 	remove_core = SPA
-}owner = SARcontroller = SARadd_core = SARowner = SAGcontroller = SAGadd_core = SAG
+}
