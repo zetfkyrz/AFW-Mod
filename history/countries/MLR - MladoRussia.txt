@@ -92,7 +92,6 @@ nonstate_consciousness = 1
 
 schools = culture_tech_school
 
-oob = "/1816/MLR_oob.txt"
 1836.1.1 = {
 
 literacy = 0.1
@@ -390,5 +389,4 @@ naval_academies = 1
 materialism = 1
 ferrous_metallurgy = 1
 
-oob = "/1914/MLR_oob.txt"
 }

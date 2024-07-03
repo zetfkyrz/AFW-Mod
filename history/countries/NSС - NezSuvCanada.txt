@@ -82,7 +82,6 @@ nonstate_consciousness = 1
 
 schools = commerce_tech_school
 
-oob = "/1816/NSC_oob.txt"
 
 1836.1.1 = {
 culture = texan
@@ -423,7 +422,6 @@ military_academies = 1
 naval_academies = 1
 materialism = 1
 
-oob = "/1914/NSC_oob.txt"
 }
 
 1923.1.1 = {
@@ -468,5 +466,4 @@ limited_access_roads = 1
 electricity = 1
 infiltration = 1
 
-oob = "/1923/NSC_oob.txt"
 }
