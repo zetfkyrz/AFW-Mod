@@ -473,7 +473,7 @@ NSK = "countries/NezSuvCan.txt"
 
 NSA = "countries/NezSuvAmerica.txt"
 
-SAR = "countries/ScanAmRep.txt"
+SAG = "countries/ScanAmGov.txt"
 
 NSM = "countries/NezSuvMex.txt"
 

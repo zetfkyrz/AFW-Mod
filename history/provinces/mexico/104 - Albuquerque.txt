@@ -1,6 +1,9 @@
-owner = MEX
-controller = MEX
-add_core = MEX
+owner = SAR
+
+controller = SAR
+
+add_core = SAR
+
 add_core = SPA
 trade_goods = cattle
 life_rating = 35
@@ -9,7 +12,7 @@ terrain = hilly_grassland
 	remove_core = SPA
 }
 1861.1.1 = {
-	controller = USA
-	owner = USA
-	add_core = USA
+	controller = SAR
+	owner = SAR
+	add_core = SAR
 }

@@ -1,6 +1,6 @@
-owner = MEX
-controller = MEX
-add_core = MEX
+owner = SAR
+controller = SAR
+add_core = SAR
 add_core = SPA
 trade_goods = iron
 life_rating = 35
@@ -15,4 +15,4 @@ terrain = hilly_grassland
 		building = cement_factory
 		upgrade = yes
 	}
-}
+}owner = SARcontroller = SARadd_core = SAR

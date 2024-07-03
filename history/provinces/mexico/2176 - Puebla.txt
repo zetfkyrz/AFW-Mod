@@ -1,6 +1,6 @@
-owner = MEX
-controller = MEX
-add_core = MEX
+owner = SWE
+controller = SWE
+add_core = SWE
 add_core = SPA
 trade_goods = dye
 life_rating = 35
@@ -14,4 +14,4 @@ terrain = dry_forest_hills
 		building = fabric_factory
 		upgrade = yes
 	}
-}
+owner = SWEcontroller = SWEadd_core = SWE}

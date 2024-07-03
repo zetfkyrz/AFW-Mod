@@ -1,6 +1,6 @@
-owner = MEX
-controller = MEX
-add_core = MEX
+owner = NSM
+controller = NSM
+add_core = NSM
 add_core = SPA
 trade_goods = cattle
 life_rating = 35
@@ -10,4 +10,4 @@ terrain = dry_forest_hills
 }
 1914.1.1 = {
 	trade_goods = precious_metal
-}
+}owner = NSMcontroller = NSMadd_core = NSM

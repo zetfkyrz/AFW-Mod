@@ -1,6 +1,6 @@
-owner = MEX
-controller = MEX
-add_core = TEX
+owner = NSA
+controller = NSA
+add_core = NSA
 add_core = MEX
 add_core = SPA
 trade_goods = sulphur
@@ -13,9 +13,9 @@ terrain = dry_grassland
 	remove_core = SPA
 }
 1861.1.1 = {
-	controller = CSA
-	owner = CSA
-	add_core = CSA
+	controller = NSA
+	owner = NSA
+	add_core = NSA
 }
 1914.1.1 = {
 	railroad = 2

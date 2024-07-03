@@ -1,9 +1,9 @@
-add_core = CAN
+add_core = NSC
 trade_goods = fish
 life_rating = 20
 1914.1.1 = {
-	owner = CAN
-	controller = CAN
+	owner = NSC
+	controller = NSC
 	colonial = 3
 }
-
+owner = NSCcontroller = NSCadd_core = NSC

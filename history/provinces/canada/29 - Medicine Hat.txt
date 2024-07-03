@@ -1,6 +1,6 @@
-owner = ENG
-controller = ENG
-add_core = CAN
+owner = NSC
+controller = NSC
+add_core = NSC
 trade_goods = fruit
 life_rating = 30
 terrain = dry_grassland
@@ -9,4 +9,4 @@ colonial = 1
 	owner = CAN
 	controller = CAN
 	colonial = no
-}
+}owner = NSCcontroller = NSCadd_core = NSC

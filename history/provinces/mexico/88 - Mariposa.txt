@@ -1,6 +1,8 @@
-owner = MEX
-controller = SPA
-add_core = MEX
+owner = SAR
+
+controller = SAR
+
+add_core = SAR
 add_core = DES
 add_core = CAL
 add_core = SPA
@@ -12,9 +14,9 @@ terrain = dry_forest_hills
 	remove_core = SPA
 }
 1861.1.1 = {
-	owner = USA
-	controller = USA
-	add_core = USA
+	owner = SAR
+	controller = SAR
+	add_core = SAR
 	colonial = no
 }
 1914.1.1 = {

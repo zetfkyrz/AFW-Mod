@@ -1,6 +1,6 @@
-owner = SPA
-controller = SPA
-add_core = SPA
+owner = NSA
+controller = NSA
+add_core = NSA
 trade_goods = cotton
 life_rating = 35
 colonial = 2
@@ -15,9 +15,9 @@ terrain = deciduous_forest
 }
 1861.1.1 = {
 	colonial = no
-	controller = CSA
-	owner = CSA
-	add_core = CSA
+	controller = NSA
+	owner = NSA
+	add_core = NSA
 }
 1914.1.1 = {
 	owner = USA

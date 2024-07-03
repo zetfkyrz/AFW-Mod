@@ -1,10 +1,10 @@
-add_core = CAN
+add_core = MLR
 trade_goods = fish
 life_rating = 15
 terrain = boreal_forest
 1861.1.1 = {
-	owner = ENG
-	controller = ENG
+	owner = MLR
+	controller = MLR
 	colonial = 2
 }
 1914.1.1 = {
@@ -12,4 +12,4 @@ terrain = boreal_forest
 	controller = CAN
 	colonial = no
 	trade_goods = precious_metal
-}
+}add_core = MLR

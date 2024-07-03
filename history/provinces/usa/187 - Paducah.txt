@@ -1,8 +1,8 @@
-owner = USA
-controller = USA
-add_core = USA
+owner = NSA
+controller = NSA
+add_core = NSA
 trade_goods = cattle
 life_rating = 35
 terrain = forested_farmland
 1861.1.1 = { railroad = 3 }
-1914.1.1 = { railroad = 5 }
+1914.1.1 = { railroad = 5 owner = NSAcontroller = NSAadd_core = NSA}
