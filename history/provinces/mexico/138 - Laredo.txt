@@ -17,9 +17,9 @@ terrain = dry_grassland
 	remove_core = SPA
 }
 1861.1.1 = {
-	controller = NSA
-	owner = NSA
-	add_core = NSA
+	controller = CSA
+	owner = CSA
+	add_core = CSA
 }
 1914.1.1 = {
 	controller = USA

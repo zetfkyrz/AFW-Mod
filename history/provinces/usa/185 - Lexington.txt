@@ -13,8 +13,8 @@ terrain = deciduous_forest_hills
 }
 1861.1.1 = { railroad = 3 }
 1914.1.1 = {
-	owner = NSA
-	controller = NSA
+	owner = CSA
+	controller = CSA
 	remove_core = CSA
 	railroad = 5
 	state_building = {
@@ -38,4 +38,4 @@ terrain = deciduous_forest_hills
 		upgrade = yes
 	}
 
-add_core = NSA}
+add_core = CSA}

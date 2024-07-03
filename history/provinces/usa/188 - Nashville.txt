@@ -19,9 +19,9 @@ state_building = {
 	ideology = conservative
 	loyalty_value = 20
 	}
-	controller = NSA
-	owner = NSA
-	add_core = NSA
+	controller = CSA
+	owner = CSA
+	add_core = CSA
 	state_building = {
 		level = 2
 		building = liquor_distillery

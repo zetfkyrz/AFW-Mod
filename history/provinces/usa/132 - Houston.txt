@@ -13,9 +13,9 @@ terrain = forested_farmland
 	remove_core = SPA
 }
 1861.1.1 = {
-	owner = NSA
-	controller = NSA
-	add_core = NSA
+	owner = CSA
+	controller = CSA
+	add_core = CSA
 }
 1861.1.1 = {
 	controller = CSA

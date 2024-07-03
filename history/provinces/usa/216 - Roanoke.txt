@@ -5,9 +5,9 @@ trade_goods = tobacco
 life_rating = 35
 terrain = deciduous_forest_mountains
 1861.1.1 = {
-	owner = NSA
-	controller = NSA
-	add_core = NSA
+	owner = CSA
+	controller = CSA
+	add_core = CSA
 }
 1914.1.1 = {
 	railroad = 5
