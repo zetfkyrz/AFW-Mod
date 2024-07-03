@@ -1,0 +1,154 @@
+
+
+army = {
+	name = "1-й армейский корпус"
+	location = 83
+	regiment = {
+		name= "1-я пехотная бригада"
+		type = infantry
+		home = 81
+	}
+
+	regiment = {
+		name= "2-я пехотная бригада"
+		type = infantry
+		home = 82
+	}
+
+	regiment = {
+		name= "3-я пехотная бригада"
+		type = artillery
+		home = 83
+	}
+
+	regiment = {
+		name= "4-я пехотная бригада"
+		type = infantry
+		home = 80
+	}
+
+	regiment = {
+		name= "5-я пехотная бригада"
+		type = infantry
+		home = 79
+	}
+
+	regiment = {
+		name= "6-я пехотная бригада"
+		type = artillery
+		home = 78
+	}
+
+	regiment = {
+		name= "7-я пехотная бригада"
+		type = infantry
+		home = 91
+	}
+
+	regiment = {
+		name= "8-я пехотная бригада"
+		type = infantry
+		home = 92
+	}
+}
+
+army = {
+	name = "2-й армейский корпус"
+	location = 93
+
+	regiment = {
+		name= "12-я пехотная бригада"
+		type = artillery
+		home = 93
+	}
+
+	regiment = {
+		name= "13-я пехотная бригада"
+		type = infantry
+		home = 114
+	}
+
+	regiment = {
+		name= "14-я пехотная бригада"
+		type = infantry
+		home = 115
+	}
+
+	regiment = {
+		name= "15-я пехотная бригада"
+		type = infantry
+		home = 116
+	}
+
+	regiment = {
+		name= "16-я пехотная бригада"
+		type = infantry
+		home = 113
+	}
+
+	regiment = {
+		name= "17-я пехотная бригада"
+		type = infantry
+		home = 111
+	}
+
+	regiment = {
+		name= "18-я пехотная бригада"
+		type = infantry
+		home = 112
+	}
+}
+
+army = {
+	name = "Семеновское казачье войско"
+	location = 110
+	regiment = {
+		name= "1-я азовская бригада"
+		type = cavalry
+		home = 21
+	}
+
+	regiment = {
+		name= "2-я азовская бригада"
+		type = cavalry
+		home = 20
+	}
+
+	regiment = {
+		name= "3-я азовская бригада"
+		type = cavalry
+		home = 13
+	}
+
+}
+
+
+
+army = {
+	name = "7-я пехотная дивизия"
+	location = 19
+	
+	regiment = {
+		name = "19-я пехотная бригада"
+		home = 15
+		type = infantry
+	}
+
+	regiment = {
+		name= "20-я пехотная бригада"
+		type = engineer
+		home = 16
+	}
+	
+	regiment = {
+		name = "21-я пехотная бригада"
+		home = 17
+		type = infantry
+	}
+}
+
+
+navy = {}
+
+navy = {}
+
