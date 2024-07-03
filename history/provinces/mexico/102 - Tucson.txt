@@ -1,8 +1,8 @@
-owner = SAR
+owner = SAG
 
-controller = SAR
+controller = SAG
 
-add_core = SAR
+add_core = SAG
 
 add_core = DES
 
@@ -16,10 +16,10 @@ terrain = semi_desert_hills
 
 1861.1.1 = {
 	
-	controller = SAR
+	controller = SAG
 
-	owner = SAR
+	owner = SAG
 
-	add_core = SAR
+	add_core = SAG
 
 }

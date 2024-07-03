@@ -1,6 +1,6 @@
-owner = SAR
-controller = SAR
-add_core = SAR
+owner = SAG
+controller = SAG
+add_core = SAG
 add_core = SPA
 trade_goods = iron
 life_rating = 35
@@ -15,4 +15,4 @@ terrain = hilly_grassland
 		building = cement_factory
 		upgrade = yes
 	}
-}owner = SARcontroller = SARadd_core = SAR
+}owner = SARcontroller = SARadd_core = SARowner = SAGcontroller = SAGadd_core = SAG

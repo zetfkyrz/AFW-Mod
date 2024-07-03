@@ -1,8 +1,8 @@
-owner = SAR
+owner = SAG
 
-controller = SAR
+controller = SAG
 
-add_core = SAR
+add_core = SAG
 
 add_core = SPA
 trade_goods = cattle
@@ -12,7 +12,7 @@ terrain = hilly_grassland
 	remove_core = SPA
 }
 1861.1.1 = {
-	controller = SAR
-	owner = SAR
-	add_core = SAR
+	controller = SAG
+	owner = SAG
+	add_core = SAG
 }

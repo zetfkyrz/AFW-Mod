@@ -1,6 +1,6 @@
-owner = SAR
-controller = SAR
-add_core = SAR
+owner = SAG
+controller = SAG
+add_core = SAG
 add_core = DES
 add_core = SPA
 colonial = 2
@@ -11,8 +11,8 @@ terrain = dry_forest_mountains
 	remove_core = SPA
 }
 1861.1.1 = {
-	owner = SAR
-	controller = SAR
-	add_core = SAR
+	owner = SAG
+	controller = SAG
+	add_core = SAG
 	colonial = no
 }

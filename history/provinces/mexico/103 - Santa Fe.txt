@@ -1,6 +1,6 @@
-owner = SAR
-controller = SAR
-add_core = SAR
+owner = SAG
+controller = SAG
+add_core = SAG
 add_core = SPA
 trade_goods = fruit
 life_rating = 35
@@ -9,7 +9,7 @@ terrain = dry_forest_hills
 	remove_core = SPA
 }
 1861.1.1 = {
-	controller = SAR
-	owner = SAR
-	add_core = SAR
+	controller = SAG
+	owner = SAG
+	add_core = SAG
 }

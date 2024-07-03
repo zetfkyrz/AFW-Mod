@@ -1,6 +1,6 @@
-owner = SAR
-controller = SAR
-add_core = SAR
+owner = SAG
+controller = SAG
+add_core = SAG
 add_core = CAL
 add_core = SPA
 trade_goods = cattle
@@ -15,4 +15,4 @@ terrain = semi_desert_hills
 		building = liquor_distillery
 		upgrade = yes
 	}
-}owner = SARcontroller = SARadd_core = SAR
+}owner = SARcontroller = SARadd_core = SARowner = SAGcontroller = SAGadd_core = SAG
