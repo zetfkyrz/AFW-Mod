@@ -1,6 +1,7 @@
+life_rating = 35
 add_core = NSC
 trade_goods = cattle
-life_rating = 27
+
 terrain = boreal_marsh
 1861.1.1 = {
 	owner = NSC
