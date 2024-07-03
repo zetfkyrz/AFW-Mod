@@ -1,8 +1,9 @@
+life_rating = 35
 owner = NSC
 controller = NSC
 add_core = NSC
 trade_goods = grain
-life_rating = 35
+
 terrain = dry_grassland
 colonial = 1
 1914.1.1 = {

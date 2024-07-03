@@ -1,6 +1,7 @@
+life_rating = 35
 add_core = NSC
 trade_goods = timber
-life_rating = 15
+
 terrain = boreal_forest
 1914.1.1 = {
 	owner = NSC
