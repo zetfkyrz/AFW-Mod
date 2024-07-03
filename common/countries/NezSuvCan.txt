@@ -102,7 +102,7 @@ party = {
 }
 
 party = {
-	name = "NSС_liberal_5"
+	name = "NSC_liberal_5"
 	start_date = 1887.1.1
 	end_date = 1908.1.1
 
@@ -116,7 +116,7 @@ party = {
 }
 
 party = {
-	name = "NSС_liberal_6"
+	name = "NSC_liberal_6"
 	start_date = 1792.1.1
 	end_date = 1832.1.1
 
@@ -130,7 +130,7 @@ party = {
 }
 
 party = {
-	name = "NSС_conservative_4"
+	name = "NSC_conservative_4"
 	start_date = 1792.1.1
 	end_date = 1828.1.1
 
@@ -144,7 +144,7 @@ party = {
 }
 
 party = {
-	name = "NSС_liberal_7"
+	name = "NSC_liberal_7"
 	start_date = 1832.1.1
 	end_date = 1856.1.1
 
@@ -158,7 +158,7 @@ party = {
 }
 
 party = {
-	name = "NSС_socialist"
+	name = "NSC_socialist"
 	start_date = 1848.1.1
 	end_date = 2000.1.1
 
@@ -172,7 +172,7 @@ party = {
 }
 
 party = {
-	name = "NSС_reactionary"
+	name = "NSC_reactionary"
 	start_date = 1810.1.1
 	end_date = 2000.1.1
 
@@ -186,7 +186,7 @@ party = {
 }
 
 party = {
-	name = "NSС_anarcho_liberal"
+	name = "NSC_anarcho_liberal"
 	start_date = 1810.1.1
 	end_date = 2000.1.1
 
@@ -200,7 +200,7 @@ party = {
 }
 
 party = {
-	name = "NSС_communist"
+	name = "NSC_communist"
 	start_date = 1848.1.1
 	end_date = 2000.1.1
 
@@ -214,7 +214,7 @@ party = {
 }
 
 party = {
-	name = "NSС_fascist"
+	name = "NSC_fascist"
 	start_date = 1905.1.1
 	end_date = 2000.1.1
 
