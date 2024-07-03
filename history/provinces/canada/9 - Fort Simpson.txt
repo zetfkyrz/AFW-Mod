@@ -3,8 +3,7 @@ add_core = NSC
 trade_goods = timber
 
 terrain = boreal_forest
-1914.1.1 = {
+1861.1.1 = {
 	owner = NSC
 	controller = NSC
-	colonial = 3
 }

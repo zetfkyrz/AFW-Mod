@@ -6,8 +6,7 @@ trade_goods = iron
 
 colonial = 1
 terrain = conifer_forest_mountains
-1914.1.1 = {
-	owner = CAN
-	controller = CAN
-	colonial = no
+1861.1.1 = {
+	owner = NSC
+	controller = NSC
 }

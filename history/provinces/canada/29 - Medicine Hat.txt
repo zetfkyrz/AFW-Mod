@@ -6,8 +6,7 @@ trade_goods = fruit
 
 terrain = dry_grassland
 colonial = 1
-1914.1.1 = {
-	owner = CAN
-	controller = CAN
-	colonial = no
+1861.1.1 = {
+	owner = NSC
+	controller = NSC
 }

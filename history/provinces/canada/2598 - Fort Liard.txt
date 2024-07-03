@@ -9,3 +9,7 @@ controller = NSC
 	controller = NSC
 	colonial = 3
 }
+1861.1.1 = {
+	owner = NSC
+	controller = NSC
+}
