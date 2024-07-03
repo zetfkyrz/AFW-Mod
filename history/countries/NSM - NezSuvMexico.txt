@@ -34,7 +34,7 @@ child_labor = child_labor_legal
 education = public
 arts_endowment = no_endowment
 
-ruling_party = USA_conservative
+ruling_party = NSM_conservative
 last_election = 1828.12.3
 upper_house = {
 	fascist = 0
@@ -83,7 +83,7 @@ nonstate_consciousness = 1
 
 schools = commerce_tech_school
 
-oob = "/1816/USA_oob.txt"
+oob = "/1816/NSM_oob.txt"
 
 1836.1.1 = {
 culture = texan
@@ -126,7 +126,7 @@ traditionalism = yes
 political_religion = yes
 paternalism = yes
 
-oob = "USA_oob.txt"
+oob = "NSM_oob.txt"
 }
 
 
@@ -159,10 +159,10 @@ decision = corwin_amendment
 }
 
 1861.1.1 = {
-	oob = "/1861/USA_oob.txt"
+	oob = "/1861/NSM_oob.txt"
 	set_global_flag = american_civil_war_has_happened
 
-ruling_party = USA_liberal
+ruling_party = NSM_liberal
 plurality = 60
 prestige = 40
 literacy = 0.75
@@ -296,7 +296,7 @@ decision = sign_the_geneva_convention
 decision = build_panama_canal_1914
 decision = statue_of_liberty_1914
 
-ruling_party = USA_liberal
+ruling_party = NSM_liberal
 last_election = 1912.3.4
 upper_house = {
 	fascist = 0
@@ -424,7 +424,7 @@ military_academies = 1
 naval_academies = 1
 materialism = 1
 
-oob = "/1914/USA_oob.txt"
+oob = "/1914/NSM_oob.txt"
 }
 
 1923.1.1 = {
@@ -469,5 +469,5 @@ limited_access_roads = 1
 electricity = 1
 infiltration = 1
 
-oob = "/1923/USA_oob.txt"
+oob = "/1923/NSM_oob.txt"
 }

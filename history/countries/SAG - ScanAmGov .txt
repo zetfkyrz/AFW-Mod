@@ -36,7 +36,7 @@ child_labor = child_labor_legal
 education = church
 arts_endowment = no_endowment
 
-ruling_party = SWE_conservative
+ruling_party = SAG_conservative
 last_election = 1833.1.1
 upper_house = {
 	fascist = 0
@@ -83,7 +83,7 @@ nonstate_consciousness = 0
 
 schools = industrial_tech_school
 
-oob = "/1816/SWE_oob.txt"
+oob = "/1816/SAG_oob.txt"
 
 1836.1.1 = {
 
@@ -117,7 +117,7 @@ animal-powered_railroad = 1
 experimental_railroad = 1
 thermodynamics = 1
 
-oob = "SWE_oob.txt"
+oob = "SAG_oob.txt"
 }
 
 1850.1.1 = {
@@ -125,7 +125,7 @@ decision = pass_folkskolereformen
 }
 
 1861.1.1 = {
-	oob = "/1861/SWE_oob.txt"
+	oob = "/1861/SAG_oob.txt"
 	plurality = 60
 	literacy = 0.95
 
@@ -377,7 +377,7 @@ rapid-firing_field_guns = 1
 military_academies = 1
 naval_academies = 1
 
-oob = "/1914/SWE_oob.txt"
+oob = "/1914/SAG_oob.txt"
 }
 
 1923.1.1 = {
@@ -415,5 +415,5 @@ neoclassical_theory = 1
 psychoanalysis = 1
 assembly_line = 1
 
-oob = "/1923/SWE_oob.txt"
+oob = "/1923/SAG_oob.txt"
 }

@@ -46,7 +46,7 @@ child_labor = child_labor_legal
 education = elite
 arts_endowment = no_endowment
 
-ruling_party = RUS_conservative
+ruling_party = MLR_conservative
 upper_house = {
 	fascist = 0
 	liberal = 19
@@ -92,7 +92,7 @@ nonstate_consciousness = 1
 
 schools = culture_tech_school
 
-oob = "/1816/RUS_oob.txt"
+oob = "/1816/MLR_oob.txt"
 1836.1.1 = {
 
 literacy = 0.1
@@ -130,17 +130,17 @@ prestige = 83
 
 decision = rename_1836
 
-oob = "RUS_oob.txt"
+oob = "MLR_oob.txt"
 }
 #1860.11.14 = {
 #decision = peking_convention
 #}
 
 1861.1.1 = {
-	oob = "/1861/RUS_oob.txt"
+	oob = "/1861/MLR_oob.txt"
 }
 1861.1.1 = {
-	ruling_party = RUS_liberal
+	ruling_party = MLR_liberal
 	plurality = 60
 	literacy = 0.15
 	non_state_culture_literacy = 0.15
@@ -259,7 +259,7 @@ health_care = no_health_care
 unemployment_subsidies = no_subsidies
 pensions = no_pensions
 
-ruling_party = RUS_liberal_2
+ruling_party = MLR_liberal_2
 upper_house = {
 	fascist = 0
 	liberal = 48
@@ -390,5 +390,5 @@ naval_academies = 1
 materialism = 1
 ferrous_metallurgy = 1
 
-oob = "/1914/RUS_oob.txt"
+oob = "/1914/MLR_oob.txt"
 }
