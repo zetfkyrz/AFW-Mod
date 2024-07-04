@@ -1,5 +1,4 @@
 add_core = MLR
-add_core = COL
 trade_goods = grain
 life_rating = 30
 terrain = conifer_forest_mountains
