@@ -1,5 +1,6 @@
 owner = NSM
 controller = NSM
+add_core = SAG 
 add_core = NSM
 add_core = RGR
 add_core = SPA

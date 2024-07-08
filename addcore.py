@@ -10,7 +10,7 @@ for i in range(len(prov)):
         s = f.read()
         scan = s.find("1861")
         if scan>0:
-            n = s.find("controller =",scan)
+            n = s.find("1861.1.1 = {",scan)
             m = s.find("\n",n)
             s = s[:m+1] + "add_core = " + country + "\n" + s[m+1:]  
             n = s.rfind("}")
@@ -18,6 +18,7 @@ for i in range(len(prov)):
         else:
             n = s.find("controller =")
             m = s.find("\n",n)
-            s = s[:m+1] + "add_core = " + country + "\n" + s[m+1:]  
+            s = s[:m+1] + "\n" + "add_core = " + country + "\n" + s[m+1:] 
+            
     with open(files[0],'w') as f: 
         f.write(s) 

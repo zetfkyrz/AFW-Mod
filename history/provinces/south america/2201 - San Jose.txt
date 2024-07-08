@@ -1,5 +1,7 @@
-owner = MEX
-controller = SPA
+owner = MEX
+
+controller = SPA
+
 add_core = UCA
 add_core = COS
 add_core = SPA
@@ -9,22 +11,26 @@ life_rating = 30
 terrain = jungle_hills
 1836.1.1 = {
 	owner = UCA
-	controller = UCA
+	
+controller = UCA
 	remove_core = SPA
 	remove_core = MEX
 }
 1861.1.1 = {
-	owner = COS
-	controller = COS
-	remove_core = UCA
+	owner = RUS
+	controller = RUS
+	
+remove_core = UCA
 }
 1914.1.1 = {
 	owner = COS
 	controller = COS
-	remove_core = UCA
+	
+remove_core = UCA
+
 	state_building = {
 		level = 2
 		building = small_arms_factory
 		upgrade = yes
 	}
-}
+add_core = RUS}

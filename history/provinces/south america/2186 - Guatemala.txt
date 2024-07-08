@@ -1,6 +1,8 @@
 owner = MEX
-controller = MEX
-add_core = UCA
+
+controller = MEX
+
+add_core = UCA
 add_core = GUA
 add_core = SPA
 add_core = MEX
@@ -9,14 +11,16 @@ life_rating = 30
 terrain = hilly_farmland
 1836.1.1 = {
 	owner = UCA
-	controller = UCA
+	
+controller = UCA
 	remove_core = SPA
 	remove_core = MEX
 }
 1861.1.1 = {
-	owner = GUA
-	controller = GUA
-	remove_core = UCA
+	owner = SWE
+	controller = SWE
+	
+remove_core = UCA
 }
 
 1914.1.1 = {
@@ -25,4 +29,4 @@ terrain = hilly_farmland
 		building = regular_clothes_factory
 		upgrade = yes
 	}
-}
+add_core = SWE}

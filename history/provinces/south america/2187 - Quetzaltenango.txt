@@ -9,13 +9,15 @@ life_rating = 30
 terrain = mountain_farmland
 1836.1.1 = {
 	owner = UCA
-	controller = UCA
+	
+controller = UCA
 	remove_core = SPA
 	remove_core = MEX
 }
 1861.1.1 = {
-	owner = GUA
-	controller = GUA
-	add_core = GUA
-	remove_core = UCA
+	owner = SWE
+	controller = SWE
+	add_core = SWE
+	
+remove_core = UCA
 }
