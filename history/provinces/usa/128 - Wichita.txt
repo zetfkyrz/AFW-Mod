@@ -1,3 +1,4 @@
+add_core = SAG 
 owner = NSA
 controller = NSA
 add_core = NSA

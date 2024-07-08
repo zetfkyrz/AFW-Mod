@@ -9,12 +9,14 @@ life_rating = 30
 terrain = jungle_mountains
 1836.1.1 = {
 	owner = UCA
-	controller = UCA
+	
+controller = UCA
 	remove_core = SPA
 	remove_core = MEX
 }
 1861.1.1 = {
-	owner = COS
-	controller = COS
-	remove_core = UCA
-}
+	owner = RUS
+	controller = RUS
+	
+remove_core = UCA
+add_core = RUS}
