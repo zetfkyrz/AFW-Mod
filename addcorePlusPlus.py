@@ -18,7 +18,7 @@ for i in range(len(prov)):
         else:
             n = s.find("controller =")
             m = s.find("\n",n)
-            s = s[:m+1] + "\n" + "add_core = " + country + "\n" + s[m+1:] 
+            s = s[:m+1] + "add_core = " + country + s[m+1:] 
             
     with open(files[0],'w') as f: 
         f.write(s) 

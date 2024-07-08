@@ -9,24 +9,16 @@ for i in range(len(prov)):
     with open(files[0],'r' ) as f:
         s = f.read()
         scan = s.find("1861")
-        if scan:
-            n = s.find("owner =",scan)
+        if scan>0:
+            n = s.find("1861.1.1 = {",scan)
             m = s.find("\n",n)
-            s = s[:n] + "owner = " + country + s[m:]
-            n = s.find("controller =",scan)
-            m = s.find("\n",n)
-            s = s[:n] + "controller = " + country + s[m:]
+            s = s[:m+1] + "add_core = " + country + "\n" + s[m+1:]  
             n = s.rfind("}")
             s = s[:n+1]
         else:
-            n = s.find("owner =")
-            m = s.find("\n",n)
-            s = s[:n] + "owner = " + country + s[m:]
             n = s.find("controller =")
             m = s.find("\n",n)
-            s = s[:n] + "controller = " + country + s[m:]
-
+            s = s[:m+1] + "add_core = " + country + s[m+1:] 
+            
     with open(files[0],'w') as f: 
-        f.write(s)
-        
-        
+        f.write(s) 
