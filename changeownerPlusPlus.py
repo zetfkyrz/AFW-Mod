@@ -14,7 +14,7 @@ for i in range(len(prov)):
             n = s.find("owner =",scan,a)
             if n>0:
                 m = s.find("\n",n)
-                s = s[:n] + "owner = " + country + "\n" + s[m:]
+                s = s[:n] + "\n"  + "owner = " + country + "\n" + s[m:]
                 n = s.find("controller =",scan,a)
                 if n>0:
                     a = s.find("}",scan,a)
@@ -39,7 +39,7 @@ for i in range(len(prov)):
                 a = s.find("}",scan)
                 n = s.find("1861.1.1 = {")
                 m = s.find("\n",n)
-                s = s[:n+12] + "owner = " + country + "\n" + s[m+1:]
+                s = s[:n+1] + "\n" + "owner = " + country + "\n" + s[m+1:]
                 n = s.find("controller =",scan,a)
                 if n>0:
                     m = s.find("\n",n)
