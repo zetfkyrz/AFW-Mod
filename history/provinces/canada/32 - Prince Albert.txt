@@ -7,4 +7,5 @@ terrain = boreal_forest
 1861.1.1 = {
 	owner = NSC
 	controller = NSC
+	add_core = MLR
 }

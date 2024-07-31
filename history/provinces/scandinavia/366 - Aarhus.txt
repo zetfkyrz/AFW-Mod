@@ -5,4 +5,4 @@ add_core = SCA
 trade_goods = grain
 life_rating = 35
 terrain = good_farmland
-1914.1.1 = { railroad = 3 }
+1914.1.1 = { railroad = 3 owner = SWEcontroller = SWEadd_core = SWE}
